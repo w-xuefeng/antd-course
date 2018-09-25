@@ -25,7 +25,8 @@ export default {
                     { path: '/dashboard/workplace', component: 'Dashboard/Workplace' }
                 ]
             },
-            { path: 'puzzlecards', component: './puzzlecards' }
+            { path: 'puzzlecards', component: './puzzlecards' },
+            { path: 'list', component: './list' }
         ]
     }],
     // proxy: {
